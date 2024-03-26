@@ -10,8 +10,6 @@ The second section, entitled ‘Detailed information’, includes all informatio
 The third section, entitled ‘Cookies policy’, includes detailed information on cookies and other similar online technologies (tools) that coinpaprika.com uses.
 
 Basic information
-Data administrator – Coinpaprika sp. z o.o., ul. Piekary 12/13, 61-823 Poznań, POLAND, entered into the Register of Entrepreneurs under National Court Register number 0000512326 whose files are kept by the District Court Poznań – Nowe Miasto and Wilda in Poznań, 8th Economic Department of the National Court Register NIP tax identification number 7792422423 REGON statistical number 302744400 email: contact@coinpaprika.com
-Purposes for which your personal data are processed – Coinpaprika sp. z o.o. ul. Piekary 12/13, 61-823 Poznań, POLAND, entered into the Register of Entrepreneurs under National Court Register number 0000512326 whose files are kept by the District Court Poznań – Nowe Miasto and Wilda in Poznań, 8th Economic Department of the National Court Register NIP tax identification number 7792422423 REGON statistical number 302744400 email: contact@coinpaprika.com
 Rights of the website’s users
 You always have the right to:
 access your data and receive their copy,rectify (correct) your personal data,withdraw permission to process your personal data if the basis for their processing is your consent,file a complaint to the President of the Personal Data Protection Office (Personal Data Protection Office, ul. Stawki 2, 00-193 Warsaw).
